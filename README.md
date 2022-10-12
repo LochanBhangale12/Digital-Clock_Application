@@ -1,2 +1,2 @@
-# Digital-Clock_Application
-Here, I am creating a digital clock application in python by using tkinter , label and text library files from the presepective files.
+# Digital-Clock-in-Python
+Create Digital clock in Python using Tkinter
